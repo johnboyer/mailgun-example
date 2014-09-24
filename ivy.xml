@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
+	<info organisation="rodaxsoft" module="mailgun-example" status="integration"/>
+	<dependencies>
+		<dependency org="commons-logging" name="commons-logging" rev="1.2"/>
+		<dependency org="org.glassfish.jersey.core" name="jersey-client" rev="2.12"/>
+	</dependencies>
+</ivy-module>
